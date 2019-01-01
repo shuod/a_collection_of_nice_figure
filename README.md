@@ -1,6 +1,20 @@
 # A collection of nice figures
 
-Figures always carry information, but nice figures will deliver messages in a more organized way. I collected some nice figures as examples to follow.
+Figures always carry information, but nice figures will deliver messages in a more organized way. 
+
+
+
+Using different colors, shapes, fonts or sizes, and alignment etc, will bring out a surprising effect.
+
+
+
+Here I collected some nice figures as examples to follow.
+
+
+
+
+
+
 
 ## Income classes based on family size in U.S.
 
