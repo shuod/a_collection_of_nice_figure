@@ -20,7 +20,7 @@ Here I collected some nice figures as examples to follow.
 
 https://howmuch.net/articles/income-classes-in-america
 
-![](E:\cloud\Dropbox\github\shuod\a_collection_of_nice_figure\income_classes2-2517.png)
+![](./income_classes2-2517.png)
 
 
 
@@ -30,7 +30,7 @@ https://howmuch.net/articles/income-classes-in-america
 
 https://howmuch.net/articles/the-worlds-most-innovative-companies
 
-![](E:\cloud\Dropbox\github\shuod\a_collection_of_nice_figure\the-worlds-most-innovative-companies-4bcd.jpg)
+![](./the-worlds-most-innovative-companies-4bcd.jpg)
 
 
 
@@ -38,7 +38,7 @@ https://howmuch.net/articles/the-worlds-most-innovative-companies
 
 http://www.emersonkent.com/map_archive/russian_campaign_1812.htm
 
-![](E:\cloud\Dropbox\github\shuod\a_collection_of_nice_figure\russian_campaign_stat.jpg)
+![](./russian_campaign_stat.jpg)
 
 
 
